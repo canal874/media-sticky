@@ -105,7 +105,7 @@
     "electron-squirrel-startup": "^1.0.0",
     "electron-store": "^6.0.0",
     "fs-extra": "^9.0.1",
-    "nanoid": "^3.1.12",
+    "nanoid": "^3.1.31",
     "pouchdb": "^7.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
